@@ -1,3 +1,4 @@
+![Quantum Hardware & Noise Simulation Lab banner](assets/quantum-hardware-banner.svg)
 
 # Quantum Hardware & Noise Simulation Lab
 
